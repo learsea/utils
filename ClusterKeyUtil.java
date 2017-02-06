@@ -1,3 +1,4 @@
+/**将key-value写入redis集群所有节点的工具类**/
 package com.sibu.agencyquick.util;
 
 import java.util.ArrayList;
