@@ -1,3 +1,4 @@
+/**图形操作工具类**/
 package com.sibu.putaway.util;
 
 import java.awt.AlphaComposite;
